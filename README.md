@@ -18,9 +18,37 @@ I am enthusiastic about contributing to impactful projects, particularly in Java
 - Python
 - Java
 - MySQL
-- HTML/CSS
+- PosgreSQL
+- Oracle
+- MongoDB
 - JavaScript
+- HTML/CSS
 
 ### Libraries or Frameworks
+- Spring Boot
+- Spring MVC
+- Spring ORM
+- Hibernate
+- Spring JPA
+- Spring REST
+- Spring Security
+- JUnit
+- Mockito
+- Log4J
+- SLF4J
+- Lombok
 - NumPy
 - Pandas
+
+### Libraries or Frameworks
+- Kafka
+- AWS
+- Postman
+- Git
+- GitHub
+- Maven
+- Gradle
+- Docker
+- Kubernetes
+- Jenkins
+- GitLab CI/CD
