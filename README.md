@@ -1,12 +1,9 @@
                                             RAGHU VAMSHI KODALI
-                                      RaghuVamshi.Kodali26@gmail.com
-                                   Software Engineer | Ex CTS, Amazon
-                              Graduate Student at the University Of South Dakota
 
 
 # About Me
 
-I am a Master's student in Computer Science at the University of South Dakota, set to graduate in December 2024. My background includes seven months as a network engineer at Cognizant, where I focused on maintaining and managing servers.
+I am a Master's student in Computer Science at the University of South Dakota, set to graduate in December 2024. I am a Java Developer specialized in Java, Spring Boot, Microservices.
 
 My technical skill set spans across Java, Data Structures, Algorithms, MySQL, and frontend technologies. Currently, I am seeking opportunities for a Spring 2025 internship and Full-time job opportunities in Software Development or as a FullStack Developer.
 
